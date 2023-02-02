@@ -1,2 +1,2 @@
 # minor1
-https://minor3.anvil.app/
+https://minorbciit1.anvil.app
